@@ -1,7 +1,3 @@
-# 💫 About Me:
-a passionate and dedicated Full Stack Web Developer with 5 years of professional experience.
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/varlamzhordania) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/varlamzhordania).
 
